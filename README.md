@@ -29,8 +29,8 @@ Built using **Selenium** for web scraping and **Tkinter** for the desktop GUI.
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/khushi1576/Scrap-Data.git
-cd yellowpages-scraper
+git clone https://github.com/khushi1576/Scrap-Data-.git
+cd Scrap-Data-
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
