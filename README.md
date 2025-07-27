@@ -9,8 +9,6 @@ Built using **Selenium** for web scraping and **Tkinter** for the desktop GUI.
 
 > ![img](img.png)
 
-*(Add a screenshot named `img.png` in your repo)*
-
 ---
 
 ## ⚙️ Features
